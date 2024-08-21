@@ -18,7 +18,7 @@ but I recommend to use `godotenv addons install`. see [GodotEnv's readme](https:
 ```json
     "finder": {
       "url": "https://github.com/funatsufumiya/godot_finder_bin",
-      "checkout": "v0.1.0",
+      "checkout": "v0.1.3",
     },
 ```
 
